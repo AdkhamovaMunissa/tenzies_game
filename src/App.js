@@ -94,6 +94,7 @@ function App() {
     ))
     
     return (
+        <div>
         <main>
             {gameOver && 
                 <div className="game">
@@ -121,8 +122,9 @@ function App() {
                     </button> 
                 </div> 
             }
-            <footer className='footer'>Adkhamova Munissa</footer>
         </main>
+        <footer className='footer'>Adkhamova Munissa</footer>
+        </div>
     )
 }
 

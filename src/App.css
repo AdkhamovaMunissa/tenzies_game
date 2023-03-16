@@ -91,6 +91,10 @@ main {
 }
 
 .footer {
-  background-color: #435058;
-  color: wheat;
+  color: #F1F2EE;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+  font-size: small;
 }
