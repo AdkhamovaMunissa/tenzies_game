@@ -89,3 +89,8 @@ main {
   padding: 5px 10px;
   border-radius: 5px;
 }
+
+.footer {
+  background-color: #435058;
+  color: wheat;
+}

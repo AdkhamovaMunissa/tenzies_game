@@ -121,6 +121,7 @@ function App() {
                     </button> 
                 </div> 
             }
+            <footer className='footer'>Adkhamova Munissa</footer>
         </main>
     )
 }
